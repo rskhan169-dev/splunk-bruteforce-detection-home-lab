@@ -71,13 +71,13 @@ This project provided hands-on experience in building a SOC home lab using Splun
 ## Project Screenshots
 
 ### Splunk Login Analysis
-![Splunk Login Analysis](1d0171a1-343c-4e9c-a90a-35a139367ff8.png)
+![Splunk Login Analysis]((splunk-dashboard.png))
 
 ### Failed Login Events
-![Failed Login Events](1d0171a1-343c-4e9c-a90a-35a139367ff8.png)
+![Failed Login Events](failed-login-analysis.png)
 
 ### Suspicious IP Detection
-![Suspicious IP Detection](1d0171a1-343c-4e9c-a90a-35a139367ff8.png)
+![Suspicious IP Detection](suspicious-ip-detection.png)
 
 ### SPL Query Results
-![SPL Query Results](1d0171a1-343c-4e9c-a90a-35a139367ff8.png)
+![SPL Query Results](SPL_Query_Results.png)
