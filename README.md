@@ -71,7 +71,7 @@ This project provided hands-on experience in building a SOC home lab using Splun
 ## Project Screenshots
 
 ### Splunk Login Analysis
-![Splunk Login Analysis]((splunk-dashboard.png))
+![Splunk Login Analysis](Splunk_Login_Analysis.png)
 
 ### Failed Login Events
 ![Failed Login Events](failed-login-analysis.png)
