@@ -14,11 +14,11 @@ This project demonstrates a hands-on SOC home lab built using Splunk SIEM and th
 
 | Tool | Purpose |
 |---|---|
-| Splunk Enterprise | SIEM monitoring |
-| BOTS v3 Dataset | SOC investigation practice |
-| Windows Event Logs | Authentication analysis |
-| Sysmon | Endpoint monitoring |
-| Wireshark | Network traffic analysis |
+| Splunk Enterprise | SIEM monitoring and log analysis |
+| BOTS v3 Dataset | Real-world SOC investigation practice |
+| Windows Event Logs | Authentication and security event analysis |
+| Sysmon | Endpoint activity monitoring |
+| Windows OS | Home lab environment |
 
 ## Home Lab Setup
 The lab was created by installing Splunk locally on Windows and ingesting the BOTS v3 dataset for security monitoring and log analysis practice.
