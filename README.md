@@ -67,3 +67,17 @@ This project provided hands-on experience in building a SOC home lab using Splun
 - Practice creating basic Splunk dashboards and alerts
 - Learn more about Windows Event Logs and Sysmon analysis
 - Continue building hands-on cybersecurity home lab projects
+
+## Project Screenshots
+
+### Splunk Login Analysis
+![Splunk Login Analysis](1d0171a1-343c-4e9c-a90a-35a139367ff8.png)
+
+### Failed Login Events
+![Failed Login Events](1d0171a1-343c-4e9c-a90a-35a139367ff8.png)
+
+### Suspicious IP Detection
+![Suspicious IP Detection](1d0171a1-343c-4e9c-a90a-35a139367ff8.png)
+
+### SPL Query Results
+![SPL Query Results](1d0171a1-343c-4e9c-a90a-35a139367ff8.png)
